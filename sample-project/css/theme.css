@@ -33,8 +33,14 @@ body {
 	font-size: 20px;
 	color: #FFF;
 }
-
-
 .modal-header {
     background: #FFCC00;
 }
+.row.align-items-center {
+	min-height: 400px;
+}
+.row.align-items-center div {
+	min-height: initial;
+}
+
+
